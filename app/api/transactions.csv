@@ -1,0 +1,3 @@
+user_id,amount,category,description
+1,200.0,Savings,"Monthly savings"
+1,-50.0,Expenses,"Groceries"

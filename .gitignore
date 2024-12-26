@@ -1,0 +1,9 @@
+node_modules
+node_modules
+# Ignore Python compiled files and cache
+__pycache__/
+*.pyc
+
+# Ignore specific files
+app/api/__pycache__/gpt.cpython-311.pyc
+app/api/gpt.py
